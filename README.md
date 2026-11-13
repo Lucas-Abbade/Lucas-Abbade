@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Lucas Abbade Gouveia Sebastião!
+# 👋 Olá, eu sou Lucas Abbade!
 
 🎓 **Engenharia de Computação (7º semestre) | UFMT**  
 📍 **Cuiabá - MT**  
